@@ -1,3 +1,18 @@
 .center {
     text-align:center;
 }
+.spread {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+button {
+    background-color: rgb(211, 35, 35);
+    border-radius:5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.blue {
+    background-color: rgb(16, 16, 134);
+    padding:25px;
+}
