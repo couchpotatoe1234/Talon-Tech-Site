@@ -10,7 +10,7 @@ button {
     background-color: rgb(211, 35, 35);
     border-radius:5px;
     cursor: pointer;
-    font-size: 50px;
+    font-size: 30px;
 }
 .red {
     background-color: rgb(205, 0, 0);
