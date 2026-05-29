@@ -10,9 +10,12 @@ button {
     background-color: rgb(211, 35, 35);
     border-radius:5px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 50px;
 }
-.blue {
-    background-color: rgb(16, 16, 134);
+.red {
+    background-color: rgb(205, 0, 0);
     padding:25px;
+}
+.black {
+    background-color:black;
 }
